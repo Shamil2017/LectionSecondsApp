@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LectionSecondsApp</string>
+    <string name="initTime">0:00:00</string>
+    <string name="buttonStartString">Пуск</string>
+    <string name="buttonPauseStr">Пауза</string>
+    <string name="buttonResetString">Сброс</string>
+
+</resources>
